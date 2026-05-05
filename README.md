@@ -1,6 +1,6 @@
 # Ofuda Attack — Patch-Fool × EOT 概念実証
 
-セキュリティキャンプ 問５ 応募課題で言及した「お札貼り攻撃」の **ローカル概念実証** リポジトリです。Vision Transformer (ViT) ベースの **CLIP** モデルに対し、Patch-Fool 方式の attention hijack と Expectation Over Transformation (EOT) による物理ロバスト化を組み合わせた敵対的パッチを最適化します。
+セキュリティキャンプ 問５ 応募課題で言及した「お札貼り攻撃」の **ローカル概念実証** リポジトリです。Vision Transformer (ViT) ベースの **CLIP** モデルに対し、Patch-Fool 方式の attention hijack と Expectation Over Transformation (EOT) による物理ロバスト化を組み合わせた敵対的パッチを最適化します。files(1)にコードは入っています。
 
 ## このリポジトリでやっていること / やっていないこと
 
