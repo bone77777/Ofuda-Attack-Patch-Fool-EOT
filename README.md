@@ -74,7 +74,7 @@ python attack.py --steps 500 --eot-samples 8  # GPU 推奨
 もし仮にこのレポジトリに関する質問や削除要請や感想がある際は、僕のプロフィールにあるメールアドレスから連絡ください。
 すぐに返信することは出来かねますが、なるべく早く返信することを心がけます。
 
-MIT License
+## MIT License
 
 Copyright (c) [18] [Naoya Sato]
 
